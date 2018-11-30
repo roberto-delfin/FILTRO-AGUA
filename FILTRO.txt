@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>
+filtro de agua proyecto 
+</title>
+</head>
+<body bgcolor="#A9E2F3">
+<p align="center">
+<FONT SIZE=19 >
+Filtro de agua
+</font> 
+</p>
+<img src="http://serendiphia.es/wp-content/uploads/2018/01/tips-improvisando-un-filtro-blog1-e1515565760414.jpg"borde=5 width=350 align="right">
+<font face="comic sans ms" size=4 color="black">
+<p align ="left">
+¿QUÉ ES UN FILTRO DE AGUA? <BR>
+Un filtro de agua es un aparato compuesto generalmente de un <br>
+material poroso y carbon activo, que <br>
+permite purificar este liquido que viene <br>
+directamente del acueducto y llega a traves de los grifos.<br><br><br>
+ORIGEN<br>
+Los primeros en crear filtros de agua fueron los romanos.<br>
+Al consolidarse una gran civilización perteneciente al Imperio Romano,<br>
+ se debió pensar en cuál era el mejor sistema para proporcionar agua potable<br>
+ a todos los ciudadanos, por tal motivo, construyeron un sistema de acueducto,<br>
+ para transportar el agua desde los montes Apeninos; a lo largo del recorrido,<br>
+ se instalaron filtros y estanques, obteniendo agua de buenas condiciones al <br>llegar a la ciudad.<br><br><br>
+</p>
+</font>
+</img>
+
+
+<ul>
+												<li><a href="https://ecocosas.com/construccion/filtro-purificador-agua-casero/"><span>hacer un filtro de agua </span></a></li>
+											</ul>
+
+<P> <a href="C:\Users\KARMIOS\Desktop\ALFREDO\BENEFICIOS.HTML"> Regresar a beneficios </a> </p>
+
+<P> <a href="C:\Users\KARMIOS\Desktop\ALFREDO\FUNCIONAMIENTO.HTML"> Regresar a funcionamiento </a> </p>
+
+</html>

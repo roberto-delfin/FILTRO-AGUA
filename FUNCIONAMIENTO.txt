@@ -1,0 +1,38 @@
+
+<html>
+<head>
+<title>
+FUNCIONAMIENTO
+</title>
+</head>
+<body bgcolor="#A9E2F3">
+<p align="center">
+<FONT SIZE=19 >
+FUNCIONAMIENTO
+</font> 
+</p>
+<img src="http://1.bp.blogspot.com/-xDzJ9677OL0/Uj0cw55NZhI/AAAAAAAAE7Y/Rd5AhfZbEsI/s200/purificar-agua-experimento.jpg"borde=5 width=350 align="right">
+<img src="http://www.fundesyram.info/biblioteca/imgs/500078.png"borde=5 width=400 align="left">
+<font face="comic sans ms" size=4 color="black">
+<p align ="center">
+Los filtros de agua caseros -todos los diversos modelos-, <br> 
+trabajan por diferentes estructuras que limiten o impidan el<br>
+ paso de partículas grandes al agua del consumidor, estos<br>
+ elementos son usualmente: tela, arena, carbón de madera, <br>
+grava e incluso piedras. Estos filtros caseros también incluyen <br>
+el uso de luz ultravioleta como un potente bactericida para el <br>
+agua filtrada lo que asegura más aún su potabilidad.<br>
+El contenedor que va a unir todos los elementos purificadores <br>
+mencionados anteriormente puede ser un tobo de plástico,<br>
+ una tinaja, una botella plástica, entre otros. Lo más ideal de <br>
+este tipo de proyecto de filtros de agua caseros es que se puede <br>
+construir a partir de materiales reciclados y que son fáciles de conseguir <br>
+para cualquier persona, así que es un proyecto ecológico, que al ser a <br>
+través de materiales reciclados es barato  y al mismo tiempo es fácil de elaborar.
+</p>
+</font>
+</img>
+
+<P> <a href="C:\Users\KARMIOS\Desktop\ALFREDO\FILTRO.HTML"> Regresar a filtro </a> </p>
+
+<P> <a href="C:\Users\KARMIOS\Desktop\ALFREDO\BENEFICIOS.HTML"> Regresar a beneficios </a> </p>
